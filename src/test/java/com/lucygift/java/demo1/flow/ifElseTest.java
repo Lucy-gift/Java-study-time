@@ -11,6 +11,11 @@ public class ifElseTest {
             System.out.println("明天继续加油");
         }
     }
+    @Test
+    public void Test0002(){
+        for(;;){
 
+        }
+    }
 
 }
