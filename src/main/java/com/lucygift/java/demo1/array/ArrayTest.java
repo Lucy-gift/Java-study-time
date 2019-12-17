@@ -57,5 +57,11 @@ public class ArrayTest {
             }
         });
     }
+    @Test
+    public void testForMe(){
+        Object[] arr = {1,"都会",null,0};
+        System.out.println(arr);
+        System.out.println(arr.toString());
+    }
 
 }
